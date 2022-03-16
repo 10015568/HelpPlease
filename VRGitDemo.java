@@ -21,6 +21,11 @@ public class VRGitDemo
 		//PERFECT SQUARE
 		PerfectSquare s = (int num) -> Math.sqrt(num) == Math.floor(Math.sqrt(num));
 		System.out.println(s.test(144));
+		/*
+		I learned how the Math.floor method works. I learned how to create an interface
+		that returns a boolean with lambda notation, and what -> means. I know how to
+		call methods within the interface.
+		*/
 
 	}
 }
